@@ -1,0 +1,14 @@
+{
+  "repo": "GISWLH/skills-1",
+  "environment": "EHPC PBS",
+  "execution_scope": "Preview of the upstream skill collection documentation rendered on EHPC. The listed skills were not executed; upstream authorship and licensing remain applicable.",
+  "exit_code": 0,
+  "output": {
+    "path": "assets/readme/execution-result.png",
+    "sha256": "359139002492da7bc8238a851c645d1e1d07bbc520046f217c386cd848a1fbb2"
+  },
+  "kind": "documentation preview",
+  "project_execution": false,
+  "browser": "Firefox 91.10 ESR",
+  "source_modified": false
+}

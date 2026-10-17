@@ -102,3 +102,14 @@ Skills are a great way to teach Claude how to get better at using specific piece
 <!-- readme-visual-refresh:artwork-source -->
 [Editable banner artwork · Excalidraw](assets/readme/banner.excalidraw)
 <!-- /readme-visual-refresh:artwork-source -->
+
+
+<!-- readme-visual-refresh:execution -->
+## Documentation preview · 17 October 2026
+
+![Preview of the upstream skill collection documentation rendered on EHPC. The listed skills were not executed; upstream authorship and licensing remain applicable.](assets/readme/execution-result.png)
+
+Preview of the upstream skill collection documentation rendered on EHPC. The listed skills were not executed; upstream authorship and licensing remain applicable.
+
+[Capture record and checksums](assets/readme/execution-record.json).
+<!-- /readme-visual-refresh:execution -->
